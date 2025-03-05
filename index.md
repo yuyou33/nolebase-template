@@ -14,7 +14,7 @@ hero:
       link: /笔记/index
     - theme: alt
       text: workflow
-      link: 
+      link: /
     - text: 实用工具
       link: 
 
